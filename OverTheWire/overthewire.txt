@@ -1,3 +1,10 @@
+==============================================================================
+OverTheWire
+=============================================================================
+
+Bandit
+======
+
 Level 0 		bandit0
 Level 0	-> Level 1	boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 Level 1 -> Level 2	CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
@@ -33,10 +40,22 @@ Level 30 -> Level 31	47e603bb428404d265f59c42920d81e5
 Level 31 -> Level 32	56a9bf19c63d650ce78e6ec0354ee45e
 Level 32 -> Level 33	c9c3199ddf4121b10cf581a98d51caee
 
+====================================================================
+
+Natas
+=====
+
+Level 0 		natas0
+Level 0 -> Level 1	gtVrDuiDfck831PqWsLEZy5gyDz1clto
+Level 1 -> Level 2	ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+Level 2 -> Level 3	
+
+
+
+
+
 Targets:
-	dean.smec@vitbhopal.ac.in
+ 	dean.smec@vitbhopal.ac.in
 	yash.thakkar2019@vitbhopal.ac.in
-
-
 
 
